@@ -1,0 +1,7241 @@
+data = [  {
+    "Name": "World",
+    "TimePeriod": 2002,
+    "Value": 25.5
+  },
+  {
+    "Name": "World",
+    "TimePeriod": 2005,
+    "Value": 20.7
+  },
+  {
+    "Name": "World",
+    "TimePeriod": 2008,
+    "Value": 18.2
+  },
+  {
+    "Name": "World",
+    "TimePeriod": 2010,
+    "Value": 15.7
+  },
+  {
+    "Name": "World",
+    "TimePeriod": 2011,
+    "Value": 13.7
+  },
+  {
+    "Name": "World",
+    "TimePeriod": 2012,
+    "Value": 12.8
+  },
+  {
+    "Name": "World",
+    "TimePeriod": 2013,
+    "Value": 11.2
+  },
+  {
+    "Name": "World",
+    "TimePeriod": 2015,
+    "Value": 9.9
+  },
+  {
+    "Name": "South America",
+    "TimePeriod": 2002,
+    "Value": 12.3
+  },
+  {
+    "Name": "South America",
+    "TimePeriod": 2005,
+    "Value": 9.5
+  },
+  {
+    "Name": "South America",
+    "TimePeriod": 2008,
+    "Value": 6.3
+  },
+  {
+    "Name": "South America",
+    "TimePeriod": 2010,
+    "Value": 5.2
+  },
+  {
+    "Name": "South America",
+    "TimePeriod": 2011,
+    "Value": 4.8
+  },
+  {
+    "Name": "South America",
+    "TimePeriod": 2012,
+    "Value": 4.2
+  },
+  {
+    "Name": "South America",
+    "TimePeriod": 2013,
+    "Value": 4
+  },
+  {
+    "Name": "South America",
+    "TimePeriod": 2015,
+    "Value": 3.2
+  },
+  {
+    "Name": "Albania",
+    "TimePeriod": 2002,
+    "Value": 2
+  },
+  {
+    "Name": "Albania",
+    "TimePeriod": 2005,
+    "Value": 1.1
+  },
+  {
+    "Name": "Albania",
+    "TimePeriod": 2008,
+    "Value": 0.4
+  },
+  {
+    "Name": "Albania",
+    "TimePeriod": 2012,
+    "Value": 1.1
+  },
+  {
+    "Name": "Oceania",
+    "TimePeriod": 2002,
+    "Value": 13.6
+  },
+  {
+    "Name": "Oceania",
+    "TimePeriod": 2005,
+    "Value": 12.6
+  },
+  {
+    "Name": "Oceania",
+    "TimePeriod": 2008,
+    "Value": 11.3
+  },
+  {
+    "Name": "Oceania",
+    "TimePeriod": 2010,
+    "Value": 9.7
+  },
+  {
+    "Name": "Oceania",
+    "TimePeriod": 2011,
+    "Value": 9.7
+  },
+  {
+    "Name": "Oceania",
+    "TimePeriod": 2012,
+    "Value": 9.6
+  },
+  {
+    "Name": "Oceania",
+    "TimePeriod": 2013,
+    "Value": 9.4
+  },
+  {
+    "Name": "Oceania",
+    "TimePeriod": 2015,
+    "Value": 8
+  },
+  {
+    "Name": "Western Africa",
+    "TimePeriod": 2002,
+    "Value": 53.5
+  },
+  {
+    "Name": "Western Africa",
+    "TimePeriod": 2005,
+    "Value": 50.1
+  },
+  {
+    "Name": "Western Africa",
+    "TimePeriod": 2008,
+    "Value": 48.9
+  },
+  {
+    "Name": "Western Africa",
+    "TimePeriod": 2010,
+    "Value": 47.7
+  },
+  {
+    "Name": "Western Africa",
+    "TimePeriod": 2011,
+    "Value": 46.3
+  },
+  {
+    "Name": "Western Africa",
+    "TimePeriod": 2012,
+    "Value": 44.6
+  },
+  {
+    "Name": "Western Africa",
+    "TimePeriod": 2013,
+    "Value": 42.7
+  },
+  {
+    "Name": "Algeria",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "Name": "Central America",
+    "TimePeriod": 2002,
+    "Value": 8.4
+  },
+  {
+    "Name": "Central America",
+    "TimePeriod": 2005,
+    "Value": 8.1
+  },
+  {
+    "Name": "Central America",
+    "TimePeriod": 2008,
+    "Value": 5.5
+  },
+  {
+    "Name": "Central America",
+    "TimePeriod": 2010,
+    "Value": 5.4
+  },
+  {
+    "Name": "Central America",
+    "TimePeriod": 2011,
+    "Value": 5
+  },
+  {
+    "Name": "Central America",
+    "TimePeriod": 2012,
+    "Value": 4.9
+  },
+  {
+    "Name": "Central America",
+    "TimePeriod": 2013,
+    "Value": 4.9
+  },
+  {
+    "Name": "Central America",
+    "TimePeriod": 2015,
+    "Value": 4.3
+  },
+  {
+    "Name": "Eastern Africa",
+    "TimePeriod": 2002,
+    "Value": 59.5
+  },
+  {
+    "Name": "Eastern Africa",
+    "TimePeriod": 2005,
+    "Value": 53.5
+  },
+  {
+    "Name": "Eastern Africa",
+    "TimePeriod": 2008,
+    "Value": 50.5
+  },
+  {
+    "Name": "Eastern Africa",
+    "TimePeriod": 2010,
+    "Value": 48.7
+  },
+  {
+    "Name": "Eastern Africa",
+    "TimePeriod": 2011,
+    "Value": 46.8
+  },
+  {
+    "Name": "Eastern Africa",
+    "TimePeriod": 2012,
+    "Value": 46.3
+  },
+  {
+    "Name": "Eastern Africa",
+    "TimePeriod": 2013,
+    "Value": 45.1
+  },
+  {
+    "Name": "Eastern Africa",
+    "TimePeriod": 2015,
+    "Value": 43.8
+  },
+  {
+    "Name": "Northern Africa",
+    "TimePeriod": 2002,
+    "Value": 8
+  },
+  {
+    "Name": "Northern Africa",
+    "TimePeriod": 2005,
+    "Value": 7.2
+  },
+  {
+    "Name": "Northern Africa",
+    "TimePeriod": 2008,
+    "Value": 5
+  },
+  {
+    "Name": "Northern Africa",
+    "TimePeriod": 2010,
+    "Value": 4.4
+  },
+  {
+    "Name": "Northern Africa",
+    "TimePeriod": 2011,
+    "Value": 3.7
+  },
+  {
+    "Name": "Northern Africa",
+    "TimePeriod": 2012,
+    "Value": 2.9
+  },
+  {
+    "Name": "Northern Africa",
+    "TimePeriod": 2013,
+    "Value": 2.7
+  },
+  {
+    "Name": "Northern Africa",
+    "TimePeriod": 2015,
+    "Value": 2.2
+  },
+  {
+    "Name": "Middle Africa",
+    "TimePeriod": 2002,
+    "Value": 67
+  },
+  {
+    "Name": "Middle Africa",
+    "TimePeriod": 2005,
+    "Value": 64.4
+  },
+  {
+    "Name": "Middle Africa",
+    "TimePeriod": 2010,
+    "Value": 59.3
+  },
+  {
+    "Name": "Middle Africa",
+    "TimePeriod": 2011,
+    "Value": 57.7
+  },
+  {
+    "Name": "Middle Africa",
+    "TimePeriod": 2012,
+    "Value": 55.1
+  },
+  {
+    "Name": "Middle Africa",
+    "TimePeriod": 2013,
+    "Value": 53.4
+  },
+  {
+    "Name": "Southern Africa",
+    "TimePeriod": 2002,
+    "Value": 34.9
+  },
+  {
+    "Name": "Southern Africa",
+    "TimePeriod": 2005,
+    "Value": 27.8
+  },
+  {
+    "Name": "Southern Africa",
+    "TimePeriod": 2008,
+    "Value": 19.6
+  },
+  {
+    "Name": "Southern Africa",
+    "TimePeriod": 2010,
+    "Value": 18.7
+  },
+  {
+    "Name": "Southern Africa",
+    "TimePeriod": 2011,
+    "Value": 18.7
+  },
+  {
+    "Name": "Southern Africa",
+    "TimePeriod": 2012,
+    "Value": 19
+  },
+  {
+    "Name": "Southern Africa",
+    "TimePeriod": 2013,
+    "Value": 19.2
+  },
+  {
+    "Name": "Southern Africa",
+    "TimePeriod": 2015,
+    "Value": 20.2
+  },
+  {
+    "Name": "Northern America",
+    "TimePeriod": 2002,
+    "Value": 0.8
+  },
+  {
+    "Name": "Northern America",
+    "TimePeriod": 2005,
+    "Value": 0.9
+  },
+  {
+    "Name": "Northern America",
+    "TimePeriod": 2008,
+    "Value": 0.9
+  },
+  {
+    "Name": "Northern America",
+    "TimePeriod": 2010,
+    "Value": 0.9
+  },
+  {
+    "Name": "Northern America",
+    "TimePeriod": 2011,
+    "Value": 0.9
+  },
+  {
+    "Name": "Northern America",
+    "TimePeriod": 2012,
+    "Value": 0.9
+  },
+  {
+    "Name": "Northern America",
+    "TimePeriod": 2013,
+    "Value": 0.9
+  },
+  {
+    "Name": "Northern America",
+    "TimePeriod": 2015,
+    "Value": 1.1
+  },
+  {
+    "Name": "Angola",
+    "TimePeriod": 2000,
+    "Value": 32.3
+  },
+  {
+    "Name": "Angola",
+    "TimePeriod": 2008,
+    "Value": 30.1
+  },
+  {
+    "Name": "Caribbean",
+    "TimePeriod": 2002,
+    "Value": 25.7
+  },
+  {
+    "Name": "Caribbean",
+    "TimePeriod": 2010,
+    "Value": 24.8
+  },
+  {
+    "Name": "Caribbean",
+    "TimePeriod": 2011,
+    "Value": 24.2
+  },
+  {
+    "Name": "Caribbean",
+    "TimePeriod": 2012,
+    "Value": 11.7
+  },
+  {
+    "Name": "Caribbean",
+    "TimePeriod": 2013,
+    "Value": 11.1
+  },
+  {
+    "Name": "Eastern Asia",
+    "TimePeriod": 2002,
+    "Value": 24.9
+  },
+  {
+    "Name": "Eastern Asia",
+    "TimePeriod": 2005,
+    "Value": 15.4
+  },
+  {
+    "Name": "Eastern Asia",
+    "TimePeriod": 2008,
+    "Value": 13.1
+  },
+  {
+    "Name": "Eastern Asia",
+    "TimePeriod": 2010,
+    "Value": 10.3
+  },
+  {
+    "Name": "Eastern Asia",
+    "TimePeriod": 2011,
+    "Value": 7.5
+  },
+  {
+    "Name": "Eastern Asia",
+    "TimePeriod": 2012,
+    "Value": 6.3
+  },
+  {
+    "Name": "Eastern Asia",
+    "TimePeriod": 2013,
+    "Value": 1.8
+  },
+  {
+    "Name": "Eastern Asia",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Azerbaijan",
+    "TimePeriod": 2001,
+    "Value": 2.7
+  },
+  {
+    "Name": "Azerbaijan",
+    "TimePeriod": 2002,
+    "Value": 0
+  },
+  {
+    "Name": "Azerbaijan",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "Name": "Azerbaijan",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Azerbaijan",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2000,
+    "Value": 5.7
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2001,
+    "Value": 9.4
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2002,
+    "Value": 14
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2003,
+    "Value": 7
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2004,
+    "Value": 5.4
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2005,
+    "Value": 3.9
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2006,
+    "Value": 3.3
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2007,
+    "Value": 2.9
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2008,
+    "Value": 2.6
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2009,
+    "Value": 2.6
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2010,
+    "Value": 1.1
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2011,
+    "Value": 0.9
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2012,
+    "Value": 0.8
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2013,
+    "Value": 0.8
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2016,
+    "Value": 0.6
+  },
+  {
+    "Name": "Argentina",
+    "TimePeriod": 2017,
+    "Value": 0.4
+  },
+  {
+    "Name": "Southern Asia",
+    "TimePeriod": 2002,
+    "Value": 35
+  },
+  {
+    "Name": "Southern Asia",
+    "TimePeriod": 2005,
+    "Value": 31.3
+  },
+  {
+    "Name": "Southern Asia",
+    "TimePeriod": 2008,
+    "Value": 27.6
+  },
+  {
+    "Name": "Southern Asia",
+    "TimePeriod": 2010,
+    "Value": 23
+  },
+  {
+    "Name": "Southern Asia",
+    "TimePeriod": 2011,
+    "Value": 18.4
+  },
+  {
+    "Name": "Southern Asia",
+    "TimePeriod": 2012,
+    "Value": 17
+  },
+  {
+    "Name": "Southern Asia",
+    "TimePeriod": 2013,
+    "Value": 15.1
+  },
+  {
+    "Name": "South-Eastern Asia",
+    "TimePeriod": 2002,
+    "Value": 23.5
+  },
+  {
+    "Name": "South-Eastern Asia",
+    "TimePeriod": 2005,
+    "Value": 19.7
+  },
+  {
+    "Name": "South-Eastern Asia",
+    "TimePeriod": 2008,
+    "Value": 17.7
+  },
+  {
+    "Name": "South-Eastern Asia",
+    "TimePeriod": 2010,
+    "Value": 12.4
+  },
+  {
+    "Name": "South-Eastern Asia",
+    "TimePeriod": 2011,
+    "Value": 10.8
+  },
+  {
+    "Name": "South-Eastern Asia",
+    "TimePeriod": 2012,
+    "Value": 9.5
+  },
+  {
+    "Name": "South-Eastern Asia",
+    "TimePeriod": 2013,
+    "Value": 7.9
+  },
+  {
+    "Name": "South-Eastern Asia",
+    "TimePeriod": 2015,
+    "Value": 6
+  },
+  {
+    "Name": "Australia",
+    "TimePeriod": 2001,
+    "Value": 0.7
+  },
+  {
+    "Name": "Australia",
+    "TimePeriod": 2003,
+    "Value": 1
+  },
+  {
+    "Name": "Australia",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "Name": "Australia",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Australia",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Australia",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "Name": "Southern Europe",
+    "TimePeriod": 2002,
+    "Value": 0.7
+  },
+  {
+    "Name": "Southern Europe",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "Name": "Southern Europe",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Southern Europe",
+    "TimePeriod": 2010,
+    "Value": 1
+  },
+  {
+    "Name": "Southern Europe",
+    "TimePeriod": 2011,
+    "Value": 1.2
+  },
+  {
+    "Name": "Southern Europe",
+    "TimePeriod": 2012,
+    "Value": 1.4
+  },
+  {
+    "Name": "Southern Europe",
+    "TimePeriod": 2013,
+    "Value": 1.2
+  },
+  {
+    "Name": "Southern Europe",
+    "TimePeriod": 2015,
+    "Value": 1.4
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "Name": "Austria",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Bangladesh",
+    "TimePeriod": 2000,
+    "Value": 34.8
+  },
+  {
+    "Name": "Bangladesh",
+    "TimePeriod": 2005,
+    "Value": 25.7
+  },
+  {
+    "Name": "Bangladesh",
+    "TimePeriod": 2010,
+    "Value": 19.6
+  },
+  {
+    "Name": "Bangladesh",
+    "TimePeriod": 2016,
+    "Value": 14.8
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2001,
+    "Value": 19.3
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2002,
+    "Value": 15.1
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2003,
+    "Value": 11.4
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2004,
+    "Value": 7.9
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2005,
+    "Value": 4.5
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2006,
+    "Value": 3.2
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2007,
+    "Value": 2.8
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2008,
+    "Value": 1.4
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2009,
+    "Value": 1.9
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2010,
+    "Value": 1.9
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2011,
+    "Value": 2.2
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2012,
+    "Value": 1.6
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2013,
+    "Value": 2.2
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2014,
+    "Value": 2.3
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2015,
+    "Value": 1.9
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2016,
+    "Value": 1.8
+  },
+  {
+    "Name": "Armenia",
+    "TimePeriod": 2017,
+    "Value": 1.4
+  },
+  {
+    "Name": "Australia and New Zealand",
+    "TimePeriod": 2002,
+    "Value": 0.9
+  },
+  {
+    "Name": "Australia and New Zealand",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "Name": "Australia and New Zealand",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Australia and New Zealand",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Australia and New Zealand",
+    "TimePeriod": 2011,
+    "Value": 0.6
+  },
+  {
+    "Name": "Australia and New Zealand",
+    "TimePeriod": 2012,
+    "Value": 0.6
+  },
+  {
+    "Name": "Australia and New Zealand",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "Name": "Australia and New Zealand",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Melanesia",
+    "TimePeriod": 2008,
+    "Value": 39
+  },
+  {
+    "Name": "Melanesia",
+    "TimePeriod": 2010,
+    "Value": 33.1
+  },
+  {
+    "Name": "Melanesia",
+    "TimePeriod": 2011,
+    "Value": 32.9
+  },
+  {
+    "Name": "Melanesia",
+    "TimePeriod": 2012,
+    "Value": 32.1
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Belgium",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Polynesia",
+    "TimePeriod": 2002,
+    "Value": 2.1
+  },
+  {
+    "Name": "Polynesia",
+    "TimePeriod": 2008,
+    "Value": 1
+  },
+  {
+    "Name": "Polynesia",
+    "TimePeriod": 2010,
+    "Value": 1.2
+  },
+  {
+    "Name": "Polynesia",
+    "TimePeriod": 2011,
+    "Value": 1
+  },
+  {
+    "Name": "Polynesia",
+    "TimePeriod": 2013,
+    "Value": 1.2
+  },
+  {
+    "Name": "Polynesia",
+    "TimePeriod": 2015,
+    "Value": 1
+  },
+  {
+    "Name": "Central and Southern Asia",
+    "TimePeriod": 2002,
+    "Value": 35
+  },
+  {
+    "Name": "Central and Southern Asia",
+    "TimePeriod": 2005,
+    "Value": 31.3
+  },
+  {
+    "Name": "Central and Southern Asia",
+    "TimePeriod": 2008,
+    "Value": 27.5
+  },
+  {
+    "Name": "Central and Southern Asia",
+    "TimePeriod": 2010,
+    "Value": 22.8
+  },
+  {
+    "Name": "Central and Southern Asia",
+    "TimePeriod": 2011,
+    "Value": 18.3
+  },
+  {
+    "Name": "Central and Southern Asia",
+    "TimePeriod": 2012,
+    "Value": 16.8
+  },
+  {
+    "Name": "Central and Southern Asia",
+    "TimePeriod": 2013,
+    "Value": 15
+  },
+  {
+    "Name": "Bhutan",
+    "TimePeriod": 2003,
+    "Value": 17.6
+  },
+  {
+    "Name": "Bhutan",
+    "TimePeriod": 2007,
+    "Value": 8
+  },
+  {
+    "Name": "Bhutan",
+    "TimePeriod": 2012,
+    "Value": 2.2
+  },
+  {
+    "Name": "Bhutan",
+    "TimePeriod": 2017,
+    "Value": 1.5
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2000,
+    "Value": 28.6
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2001,
+    "Value": 22.8
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2002,
+    "Value": 24.7
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2004,
+    "Value": 13.7
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2005,
+    "Value": 19.3
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2006,
+    "Value": 16.4
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2007,
+    "Value": 12.4
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2008,
+    "Value": 11.1
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2009,
+    "Value": 10.5
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2011,
+    "Value": 7.3
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2012,
+    "Value": 8.2
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2013,
+    "Value": 6.9
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2014,
+    "Value": 5.8
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2015,
+    "Value": 6.4
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2016,
+    "Value": 7.1
+  },
+  {
+    "Name": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2017,
+    "Value": 5.8
+  },
+  {
+    "Name": "Bosnia and Herzegovina",
+    "TimePeriod": 2001,
+    "Value": 0.3
+  },
+  {
+    "Name": "Bosnia and Herzegovina",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "Name": "Bosnia and Herzegovina",
+    "TimePeriod": 2007,
+    "Value": 0.1
+  },
+  {
+    "Name": "Bosnia and Herzegovina",
+    "TimePeriod": 2011,
+    "Value": 0.1
+  },
+  {
+    "Name": "Botswana",
+    "TimePeriod": 2002,
+    "Value": 29.8
+  },
+  {
+    "Name": "Botswana",
+    "TimePeriod": 2009,
+    "Value": 18.2
+  },
+  {
+    "Name": "Botswana",
+    "TimePeriod": 2015,
+    "Value": 16.1
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2001,
+    "Value": 11.6
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2002,
+    "Value": 10.3
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2003,
+    "Value": 11.1
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2004,
+    "Value": 9.7
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2005,
+    "Value": 8.6
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2006,
+    "Value": 7.2
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2007,
+    "Value": 6.8
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2008,
+    "Value": 5.6
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2009,
+    "Value": 5.4
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2011,
+    "Value": 4.7
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2012,
+    "Value": 3.8
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2013,
+    "Value": 3.8
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2014,
+    "Value": 2.8
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2015,
+    "Value": 3.4
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2016,
+    "Value": 4.3
+  },
+  {
+    "Name": "Brazil",
+    "TimePeriod": 2017,
+    "Value": 4.8
+  },
+  {
+    "Name": "Solomon Islands",
+    "TimePeriod": 2005,
+    "Value": 45.6
+  },
+  {
+    "Name": "Solomon Islands",
+    "TimePeriod": 2013,
+    "Value": 25.1
+  },
+  {
+    "Name": "Bulgaria",
+    "TimePeriod": 2006,
+    "Value": 5.5
+  },
+  {
+    "Name": "Bulgaria",
+    "TimePeriod": 2007,
+    "Value": 1.7
+  },
+  {
+    "Name": "Bulgaria",
+    "TimePeriod": 2008,
+    "Value": 1.2
+  },
+  {
+    "Name": "Bulgaria",
+    "TimePeriod": 2009,
+    "Value": 1.2
+  },
+  {
+    "Name": "Bulgaria",
+    "TimePeriod": 2010,
+    "Value": 2
+  },
+  {
+    "Name": "Bulgaria",
+    "TimePeriod": 2011,
+    "Value": 2.2
+  },
+  {
+    "Name": "Bulgaria",
+    "TimePeriod": 2012,
+    "Value": 2
+  },
+  {
+    "Name": "Bulgaria",
+    "TimePeriod": 2013,
+    "Value": 1.7
+  },
+  {
+    "Name": "Bulgaria",
+    "TimePeriod": 2014,
+    "Value": 1.5
+  },
+  {
+    "Name": "Myanmar",
+    "TimePeriod": 2015,
+    "Value": 6.2
+  },
+  {
+    "Name": "Burundi",
+    "TimePeriod": 2006,
+    "Value": 77.7
+  },
+  {
+    "Name": "Burundi",
+    "TimePeriod": 2013,
+    "Value": 71.8
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2000,
+    "Value": 7.1
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2001,
+    "Value": 3.2
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2002,
+    "Value": 2.1
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2003,
+    "Value": 1.4
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2004,
+    "Value": 0.3
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2005,
+    "Value": 0.4
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2006,
+    "Value": 0.1
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2007,
+    "Value": 0.1
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2016,
+    "Value": 0
+  },
+  {
+    "Name": "Belarus",
+    "TimePeriod": 2017,
+    "Value": 0
+  },
+  {
+    "Name": "Cameroon",
+    "TimePeriod": 2001,
+    "Value": 23.1
+  },
+  {
+    "Name": "Cameroon",
+    "TimePeriod": 2007,
+    "Value": 29.3
+  },
+  {
+    "Name": "Cameroon",
+    "TimePeriod": 2014,
+    "Value": 23.8
+  },
+  {
+    "Name": "Canada",
+    "TimePeriod": 2000,
+    "Value": 0.2
+  },
+  {
+    "Name": "Canada",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "Name": "Canada",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "Name": "Canada",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "Name": "Canada",
+    "TimePeriod": 2013,
+    "Value": 0.5
+  },
+  {
+    "Name": "Cabo Verde",
+    "TimePeriod": 2001,
+    "Value": 16.2
+  },
+  {
+    "Name": "Cabo Verde",
+    "TimePeriod": 2007,
+    "Value": 8.1
+  },
+  {
+    "Name": "Caucasus and Central Asia",
+    "TimePeriod": 2002,
+    "Value": 31.1
+  },
+  {
+    "Name": "Caucasus and Central Asia",
+    "TimePeriod": 2005,
+    "Value": 25.5
+  },
+  {
+    "Name": "Caucasus and Central Asia",
+    "TimePeriod": 2008,
+    "Value": 16.3
+  },
+  {
+    "Name": "Caucasus and Central Asia",
+    "TimePeriod": 2010,
+    "Value": 12.8
+  },
+  {
+    "Name": "Caucasus and Central Asia",
+    "TimePeriod": 2011,
+    "Value": 11.2
+  },
+  {
+    "Name": "Caucasus and Central Asia",
+    "TimePeriod": 2013,
+    "Value": 8.4
+  },
+  {
+    "Name": "Caucasus and Central Asia",
+    "TimePeriod": 2015,
+    "Value": 6.2
+  },
+  {
+    "Name": "Central African Republic",
+    "TimePeriod": 2003,
+    "Value": 64.8
+  },
+  {
+    "Name": "Central African Republic",
+    "TimePeriod": 2008,
+    "Value": 66.3
+  },
+  {
+    "Name": "Asia",
+    "TimePeriod": 2002,
+    "Value": 28.4
+  },
+  {
+    "Name": "Asia",
+    "TimePeriod": 2005,
+    "Value": 22.4
+  },
+  {
+    "Name": "Asia",
+    "TimePeriod": 2008,
+    "Value": 19.5
+  },
+  {
+    "Name": "Asia",
+    "TimePeriod": 2010,
+    "Value": 15.8
+  },
+  {
+    "Name": "Asia",
+    "TimePeriod": 2011,
+    "Value": 12.5
+  },
+  {
+    "Name": "Asia",
+    "TimePeriod": 2012,
+    "Value": 11.2
+  },
+  {
+    "Name": "Asia",
+    "TimePeriod": 2013,
+    "Value": 8.4
+  },
+  {
+    "Name": "Asia",
+    "TimePeriod": 2015,
+    "Value": 6.3
+  },
+  {
+    "Name": "Central Asia",
+    "TimePeriod": 2002,
+    "Value": 38
+  },
+  {
+    "Name": "Central Asia",
+    "TimePeriod": 2005,
+    "Value": 31.3
+  },
+  {
+    "Name": "Central Asia",
+    "TimePeriod": 2008,
+    "Value": 19.8
+  },
+  {
+    "Name": "Central Asia",
+    "TimePeriod": 2010,
+    "Value": 15.2
+  },
+  {
+    "Name": "Central Asia",
+    "TimePeriod": 2011,
+    "Value": 13.2
+  },
+  {
+    "Name": "Central Asia",
+    "TimePeriod": 2013,
+    "Value": 9.9
+  },
+  {
+    "Name": "Central Asia",
+    "TimePeriod": 2015,
+    "Value": 7.4
+  },
+  {
+    "Name": "Sri Lanka",
+    "TimePeriod": 2002,
+    "Value": 8.3
+  },
+  {
+    "Name": "Sri Lanka",
+    "TimePeriod": 2006,
+    "Value": 3.8
+  },
+  {
+    "Name": "Sri Lanka",
+    "TimePeriod": 2009,
+    "Value": 2.4
+  },
+  {
+    "Name": "Sri Lanka",
+    "TimePeriod": 2012,
+    "Value": 1.9
+  },
+  {
+    "Name": "Sri Lanka",
+    "TimePeriod": 2016,
+    "Value": 0.8
+  },
+  {
+    "Name": "Western Asia",
+    "TimePeriod": 2002,
+    "Value": 3.4
+  },
+  {
+    "Name": "Western Asia",
+    "TimePeriod": 2005,
+    "Value": 3.2
+  },
+  {
+    "Name": "Western Asia",
+    "TimePeriod": 2008,
+    "Value": 2.3
+  },
+  {
+    "Name": "Western Asia",
+    "TimePeriod": 2010,
+    "Value": 2.3
+  },
+  {
+    "Name": "Western Asia",
+    "TimePeriod": 2011,
+    "Value": 3.1
+  },
+  {
+    "Name": "Western Asia",
+    "TimePeriod": 2012,
+    "Value": 3.3
+  },
+  {
+    "Name": "Western Asia",
+    "TimePeriod": 2013,
+    "Value": 3.5
+  },
+  {
+    "Name": "Western Asia",
+    "TimePeriod": 2015,
+    "Value": 6.6
+  },
+  {
+    "Name": "Chad",
+    "TimePeriod": 2003,
+    "Value": 62.9
+  },
+  {
+    "Name": "Chad",
+    "TimePeriod": 2011,
+    "Value": 38.4
+  },
+  {
+    "Name": "Europe",
+    "TimePeriod": 2002,
+    "Value": 0.8
+  },
+  {
+    "Name": "Europe",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "Name": "Europe",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Europe",
+    "TimePeriod": 2010,
+    "Value": 0.3
+  },
+  {
+    "Name": "Europe",
+    "TimePeriod": 2011,
+    "Value": 0.3
+  },
+  {
+    "Name": "Europe",
+    "TimePeriod": 2012,
+    "Value": 0.4
+  },
+  {
+    "Name": "Europe",
+    "TimePeriod": 2013,
+    "Value": 0.3
+  },
+  {
+    "Name": "Europe",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "Name": "Eastern Europe",
+    "TimePeriod": 2002,
+    "Value": 1.3
+  },
+  {
+    "Name": "Eastern Europe",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "Name": "Eastern Europe",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "Name": "Eastern Europe",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "Name": "Eastern Europe",
+    "TimePeriod": 2011,
+    "Value": 0.1
+  },
+  {
+    "Name": "Eastern Europe",
+    "TimePeriod": 2012,
+    "Value": 0.1
+  },
+  {
+    "Name": "Eastern Europe",
+    "TimePeriod": 2013,
+    "Value": 0.1
+  },
+  {
+    "Name": "Eastern Europe",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "Name": "Chile",
+    "TimePeriod": 2000,
+    "Value": 4.4
+  },
+  {
+    "Name": "Chile",
+    "TimePeriod": 2003,
+    "Value": 4.2
+  },
+  {
+    "Name": "Chile",
+    "TimePeriod": 2006,
+    "Value": 2.4
+  },
+  {
+    "Name": "Chile",
+    "TimePeriod": 2009,
+    "Value": 2.6
+  },
+  {
+    "Name": "Chile",
+    "TimePeriod": 2011,
+    "Value": 1.6
+  },
+  {
+    "Name": "Chile",
+    "TimePeriod": 2013,
+    "Value": 0.9
+  },
+  {
+    "Name": "Chile",
+    "TimePeriod": 2015,
+    "Value": 1.3
+  },
+  {
+    "Name": "Chile",
+    "TimePeriod": 2017,
+    "Value": 0.7
+  },
+  {
+    "Name": "Northern Europe",
+    "TimePeriod": 2002,
+    "Value": 0.4
+  },
+  {
+    "Name": "Northern Europe",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "Name": "Northern Europe",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Northern Europe",
+    "TimePeriod": 2010,
+    "Value": 0.3
+  },
+  {
+    "Name": "Northern Europe",
+    "TimePeriod": 2011,
+    "Value": 0.3
+  },
+  {
+    "Name": "Northern Europe",
+    "TimePeriod": 2012,
+    "Value": 0.3
+  },
+  {
+    "Name": "Northern Europe",
+    "TimePeriod": 2013,
+    "Value": 0.3
+  },
+  {
+    "Name": "Northern Europe",
+    "TimePeriod": 2015,
+    "Value": 0.3
+  },
+  {
+    "Name": "Western Europe",
+    "TimePeriod": 2002,
+    "Value": 0.1
+  },
+  {
+    "Name": "Western Europe",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Western Europe",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Western Europe",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Western Europe",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Western Europe",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Western Europe",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Western Europe",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "China",
+    "TimePeriod": 2002,
+    "Value": 31.7
+  },
+  {
+    "Name": "China",
+    "TimePeriod": 2005,
+    "Value": 18.5
+  },
+  {
+    "Name": "China",
+    "TimePeriod": 2008,
+    "Value": 14.8
+  },
+  {
+    "Name": "China",
+    "TimePeriod": 2010,
+    "Value": 11.2
+  },
+  {
+    "Name": "China",
+    "TimePeriod": 2011,
+    "Value": 7.9
+  },
+  {
+    "Name": "China",
+    "TimePeriod": 2012,
+    "Value": 6.5
+  },
+  {
+    "Name": "China",
+    "TimePeriod": 2013,
+    "Value": 1.9
+  },
+  {
+    "Name": "China",
+    "TimePeriod": 2014,
+    "Value": 1.4
+  },
+  {
+    "Name": "China",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2000,
+    "Value": 16.4
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2001,
+    "Value": 19.7
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2002,
+    "Value": 14.3
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2003,
+    "Value": 12
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2004,
+    "Value": 10.9
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2005,
+    "Value": 9.7
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2008,
+    "Value": 10.4
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2009,
+    "Value": 8.9
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2010,
+    "Value": 7.7
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2011,
+    "Value": 6.3
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2012,
+    "Value": 6.2
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2013,
+    "Value": 5.7
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2014,
+    "Value": 5
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2015,
+    "Value": 4.5
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2016,
+    "Value": 4.5
+  },
+  {
+    "Name": "Colombia",
+    "TimePeriod": 2017,
+    "Value": 3.9
+  },
+  {
+    "Name": "Comoros",
+    "TimePeriod": 2004,
+    "Value": 13.5
+  },
+  {
+    "Name": "Comoros",
+    "TimePeriod": 2013,
+    "Value": 17.9
+  },
+  {
+    "Name": "Congo",
+    "TimePeriod": 2005,
+    "Value": 53.4
+  },
+  {
+    "Name": "Congo",
+    "TimePeriod": 2011,
+    "Value": 37
+  },
+  {
+    "Name": "Democratic Republic of the Congo",
+    "TimePeriod": 2004,
+    "Value": 94.1
+  },
+  {
+    "Name": "Democratic Republic of the Congo",
+    "TimePeriod": 2012,
+    "Value": 76.6
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2000,
+    "Value": 6.5
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2001,
+    "Value": 4.7
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2002,
+    "Value": 4.5
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2003,
+    "Value": 4.4
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2004,
+    "Value": 4.3
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2005,
+    "Value": 3.1
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2006,
+    "Value": 3.2
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2007,
+    "Value": 1.7
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2008,
+    "Value": 2.2
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2009,
+    "Value": 2.4
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2010,
+    "Value": 1.5
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2011,
+    "Value": 1.6
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2012,
+    "Value": 1.6
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2013,
+    "Value": 1.6
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2014,
+    "Value": 1.4
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2015,
+    "Value": 1.5
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2016,
+    "Value": 1.3
+  },
+  {
+    "Name": "Costa Rica",
+    "TimePeriod": 2017,
+    "Value": 1
+  },
+  {
+    "Name": "Croatia",
+    "TimePeriod": 2009,
+    "Value": 1
+  },
+  {
+    "Name": "Croatia",
+    "TimePeriod": 2010,
+    "Value": 1.2
+  },
+  {
+    "Name": "Croatia",
+    "TimePeriod": 2011,
+    "Value": 0.7
+  },
+  {
+    "Name": "Croatia",
+    "TimePeriod": 2012,
+    "Value": 0.7
+  },
+  {
+    "Name": "Croatia",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "Name": "Croatia",
+    "TimePeriod": 2014,
+    "Value": 1
+  },
+  {
+    "Name": "Croatia",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Cyprus",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2002,
+    "Value": 55.5
+  },
+  {
+    "Name": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2005,
+    "Value": 48.1
+  },
+  {
+    "Name": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2008,
+    "Value": 42.9
+  },
+  {
+    "Name": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2010,
+    "Value": 40.5
+  },
+  {
+    "Name": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2011,
+    "Value": 39.1
+  },
+  {
+    "Name": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2012,
+    "Value": 37.4
+  },
+  {
+    "Name": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2013,
+    "Value": 36.2
+  },
+  {
+    "Name": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2015,
+    "Value": 35.2
+  },
+  {
+    "Name": "Sub-Saharan Africa",
+    "TimePeriod": 2002,
+    "Value": 56.4
+  },
+  {
+    "Name": "Sub-Saharan Africa",
+    "TimePeriod": 2005,
+    "Value": 51.9
+  },
+  {
+    "Name": "Sub-Saharan Africa",
+    "TimePeriod": 2008,
+    "Value": 49.3
+  },
+  {
+    "Name": "Sub-Saharan Africa",
+    "TimePeriod": 2010,
+    "Value": 47.8
+  },
+  {
+    "Name": "Sub-Saharan Africa",
+    "TimePeriod": 2011,
+    "Value": 46.3
+  },
+  {
+    "Name": "Sub-Saharan Africa",
+    "TimePeriod": 2012,
+    "Value": 45.2
+  },
+  {
+    "Name": "Sub-Saharan Africa",
+    "TimePeriod": 2013,
+    "Value": 43.8
+  },
+  {
+    "Name": "Sub-Saharan Africa",
+    "TimePeriod": 2015,
+    "Value": 42.4
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Czechia",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Benin",
+    "TimePeriod": 2003,
+    "Value": 48.8
+  },
+  {
+    "Name": "Benin",
+    "TimePeriod": 2011,
+    "Value": 53.1
+  },
+  {
+    "Name": "Benin",
+    "TimePeriod": 2015,
+    "Value": 49.5
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "Name": "Denmark",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2000,
+    "Value": 5.5
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2001,
+    "Value": 3.9
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2002,
+    "Value": 5.6
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2003,
+    "Value": 6.6
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2004,
+    "Value": 8.5
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2005,
+    "Value": 5.6
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2006,
+    "Value": 4.3
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2007,
+    "Value": 4.3
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2008,
+    "Value": 3.7
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2009,
+    "Value": 3.1
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2010,
+    "Value": 2.5
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2011,
+    "Value": 2.9
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2012,
+    "Value": 2.6
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2013,
+    "Value": 2.2
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2014,
+    "Value": 2.1
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2015,
+    "Value": 1.8
+  },
+  {
+    "Name": "Dominican Republic",
+    "TimePeriod": 2016,
+    "Value": 1.6
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2000,
+    "Value": 28.2
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2003,
+    "Value": 14.5
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2004,
+    "Value": 15
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2005,
+    "Value": 12.1
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2006,
+    "Value": 8.1
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2007,
+    "Value": 8.5
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2008,
+    "Value": 7.5
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2009,
+    "Value": 7.2
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2010,
+    "Value": 5.6
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2011,
+    "Value": 4.7
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2012,
+    "Value": 4.5
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2013,
+    "Value": 3.2
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2014,
+    "Value": 2.6
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2015,
+    "Value": 3.4
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2016,
+    "Value": 3.6
+  },
+  {
+    "Name": "Ecuador",
+    "TimePeriod": 2017,
+    "Value": 3.2
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2000,
+    "Value": 12.2
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2001,
+    "Value": 13.5
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2002,
+    "Value": 14
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2003,
+    "Value": 14.8
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2004,
+    "Value": 10.9
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2005,
+    "Value": 10.4
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2006,
+    "Value": 6.9
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2007,
+    "Value": 4.5
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2008,
+    "Value": 6.7
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2009,
+    "Value": 6.4
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2010,
+    "Value": 5.5
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2011,
+    "Value": 4.5
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2012,
+    "Value": 4.1
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2013,
+    "Value": 3.2
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2014,
+    "Value": 3
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2015,
+    "Value": 1.9
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2016,
+    "Value": 2.2
+  },
+  {
+    "Name": "El Salvador",
+    "TimePeriod": 2017,
+    "Value": 1.9
+  },
+  {
+    "Name": "Ethiopia",
+    "TimePeriod": 2004,
+    "Value": 37.2
+  },
+  {
+    "Name": "Ethiopia",
+    "TimePeriod": 2010,
+    "Value": 33.5
+  },
+  {
+    "Name": "Ethiopia",
+    "TimePeriod": 2015,
+    "Value": 27.3
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2003,
+    "Value": 2.5
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2004,
+    "Value": 1
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2006,
+    "Value": 0.7
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2010,
+    "Value": 0.7
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2011,
+    "Value": 1
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2012,
+    "Value": 0.7
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "Name": "Estonia",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "Name": "Fiji",
+    "TimePeriod": 2002,
+    "Value": 4.9
+  },
+  {
+    "Name": "Fiji",
+    "TimePeriod": 2008,
+    "Value": 3.5
+  },
+  {
+    "Name": "Fiji",
+    "TimePeriod": 2013,
+    "Value": 1.4
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Finland",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "France",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Djibouti",
+    "TimePeriod": 2002,
+    "Value": 20.6
+  },
+  {
+    "Name": "Djibouti",
+    "TimePeriod": 2012,
+    "Value": 18.3
+  },
+  {
+    "Name": "Djibouti",
+    "TimePeriod": 2013,
+    "Value": 22.7
+  },
+  {
+    "Name": "Djibouti",
+    "TimePeriod": 2017,
+    "Value": 17.1
+  },
+  {
+    "Name": "Gabon",
+    "TimePeriod": 2005,
+    "Value": 8
+  },
+  {
+    "Name": "Gabon",
+    "TimePeriod": 2017,
+    "Value": 3.4
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2000,
+    "Value": 19.4
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2001,
+    "Value": 19.4
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2002,
+    "Value": 10.5
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2003,
+    "Value": 10.7
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2004,
+    "Value": 10.1
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2005,
+    "Value": 10.9
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2006,
+    "Value": 10.5
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2007,
+    "Value": 11.8
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2008,
+    "Value": 10.4
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2009,
+    "Value": 10.3
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2010,
+    "Value": 12.2
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2011,
+    "Value": 11.3
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2012,
+    "Value": 8.6
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2013,
+    "Value": 6.6
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2014,
+    "Value": 5
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2015,
+    "Value": 3.8
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2016,
+    "Value": 3.9
+  },
+  {
+    "Name": "Georgia",
+    "TimePeriod": 2017,
+    "Value": 5
+  },
+  {
+    "Name": "Gambia",
+    "TimePeriod": 2003,
+    "Value": 45.3
+  },
+  {
+    "Name": "Gambia",
+    "TimePeriod": 2010,
+    "Value": 25.1
+  },
+  {
+    "Name": "Gambia",
+    "TimePeriod": 2015,
+    "Value": 10.1
+  },
+  {
+    "Name": "State of Palestine",
+    "TimePeriod": 2004,
+    "Value": 1.1
+  },
+  {
+    "Name": "State of Palestine",
+    "TimePeriod": 2005,
+    "Value": 0.9
+  },
+  {
+    "Name": "State of Palestine",
+    "TimePeriod": 2006,
+    "Value": 0.3
+  },
+  {
+    "Name": "State of Palestine",
+    "TimePeriod": 2007,
+    "Value": 1.5
+  },
+  {
+    "Name": "State of Palestine",
+    "TimePeriod": 2009,
+    "Value": 0.3
+  },
+  {
+    "Name": "State of Palestine",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "Name": "State of Palestine",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "Name": "State of Palestine",
+    "TimePeriod": 2016,
+    "Value": 1
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2000,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2001,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2002,
+    "Value": 0.2
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Germany",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Ghana",
+    "TimePeriod": 2005,
+    "Value": 24.5
+  },
+  {
+    "Name": "Ghana",
+    "TimePeriod": 2012,
+    "Value": 12
+  },
+  {
+    "Name": "Ghana",
+    "TimePeriod": 2016,
+    "Value": 13.3
+  },
+  {
+    "Name": "Kiribati",
+    "TimePeriod": 2006,
+    "Value": 12.9
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2003,
+    "Value": 0.5
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2006,
+    "Value": 0.5
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2010,
+    "Value": 1
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2011,
+    "Value": 1.2
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2012,
+    "Value": 1.5
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2014,
+    "Value": 1.5
+  },
+  {
+    "Name": "Greece",
+    "TimePeriod": 2015,
+    "Value": 1.5
+  },
+  {
+    "Name": "Guatemala",
+    "TimePeriod": 2000,
+    "Value": 9.2
+  },
+  {
+    "Name": "Guatemala",
+    "TimePeriod": 2006,
+    "Value": 11.1
+  },
+  {
+    "Name": "Guatemala",
+    "TimePeriod": 2014,
+    "Value": 8.7
+  },
+  {
+    "Name": "Guinea",
+    "TimePeriod": 2002,
+    "Value": 62.2
+  },
+  {
+    "Name": "Guinea",
+    "TimePeriod": 2007,
+    "Value": 59.7
+  },
+  {
+    "Name": "Guinea",
+    "TimePeriod": 2012,
+    "Value": 35.3
+  },
+  {
+    "Name": "Haiti",
+    "TimePeriod": 2012,
+    "Value": 25
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2001,
+    "Value": 21.3
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2002,
+    "Value": 23.4
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2003,
+    "Value": 28.1
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2004,
+    "Value": 27.2
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2005,
+    "Value": 26.5
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2006,
+    "Value": 22.5
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2007,
+    "Value": 17.2
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2008,
+    "Value": 16.5
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2009,
+    "Value": 13.8
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2010,
+    "Value": 15
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2011,
+    "Value": 17.1
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2012,
+    "Value": 19.6
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2013,
+    "Value": 17.3
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2014,
+    "Value": 15.9
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2015,
+    "Value": 16.2
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2016,
+    "Value": 16
+  },
+  {
+    "Name": "Honduras",
+    "TimePeriod": 2017,
+    "Value": 17.2
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "Name": "Hungary",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Iceland",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "India",
+    "TimePeriod": 2004,
+    "Value": 38.2
+  },
+  {
+    "Name": "India",
+    "TimePeriod": 2009,
+    "Value": 31.1
+  },
+  {
+    "Name": "India",
+    "TimePeriod": 2011,
+    "Value": 21.2
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2000,
+    "Value": 39.3
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2001,
+    "Value": 35.5
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2002,
+    "Value": 22.8
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2003,
+    "Value": 22.6
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2004,
+    "Value": 23.9
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2005,
+    "Value": 21.1
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2006,
+    "Value": 27.4
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2007,
+    "Value": 22.4
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2008,
+    "Value": 21.8
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2009,
+    "Value": 18.2
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2010,
+    "Value": 15.7
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2011,
+    "Value": 13.3
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2012,
+    "Value": 11.6
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2013,
+    "Value": 9.4
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2014,
+    "Value": 7.9
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2015,
+    "Value": 7.2
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2016,
+    "Value": 6.5
+  },
+  {
+    "Name": "Indonesia",
+    "TimePeriod": 2017,
+    "Value": 5.7
+  },
+  {
+    "Name": "Iran (Islamic Republic of)",
+    "TimePeriod": 2005,
+    "Value": 0.4
+  },
+  {
+    "Name": "Iran (Islamic Republic of)",
+    "TimePeriod": 2006,
+    "Value": 0.4
+  },
+  {
+    "Name": "Iran (Islamic Republic of)",
+    "TimePeriod": 2009,
+    "Value": 1
+  },
+  {
+    "Name": "Iran (Islamic Republic of)",
+    "TimePeriod": 2013,
+    "Value": 0.1
+  },
+  {
+    "Name": "Iran (Islamic Republic of)",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "Name": "Iran (Islamic Republic of)",
+    "TimePeriod": 2015,
+    "Value": 0.3
+  },
+  {
+    "Name": "Iran (Islamic Republic of)",
+    "TimePeriod": 2016,
+    "Value": 0.3
+  },
+  {
+    "Name": "Iraq",
+    "TimePeriod": 2006,
+    "Value": 2.1
+  },
+  {
+    "Name": "Iraq",
+    "TimePeriod": 2012,
+    "Value": 2.5
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2006,
+    "Value": 0.1
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2014,
+    "Value": 0.5
+  },
+  {
+    "Name": "Ireland",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "Name": "Israel",
+    "TimePeriod": 2001,
+    "Value": 0.2
+  },
+  {
+    "Name": "Israel",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "Name": "Israel",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "Name": "Israel",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "Name": "Israel",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "Name": "Israel",
+    "TimePeriod": 2014,
+    "Value": 0.5
+  },
+  {
+    "Name": "Israel",
+    "TimePeriod": 2016,
+    "Value": 0.2
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2003,
+    "Value": 0.7
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2006,
+    "Value": 0.7
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2007,
+    "Value": 0.7
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2008,
+    "Value": 0.7
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2009,
+    "Value": 1
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2010,
+    "Value": 1.2
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2011,
+    "Value": 1.2
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2012,
+    "Value": 1.2
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2013,
+    "Value": 1.4
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2014,
+    "Value": 1.2
+  },
+  {
+    "Name": "Italy",
+    "TimePeriod": 2015,
+    "Value": 2
+  },
+  {
+    "Name": "Côte d'Ivoire",
+    "TimePeriod": 2002,
+    "Value": 23.2
+  },
+  {
+    "Name": "Côte d'Ivoire",
+    "TimePeriod": 2008,
+    "Value": 29.1
+  },
+  {
+    "Name": "Côte d'Ivoire",
+    "TimePeriod": 2015,
+    "Value": 28.2
+  },
+  {
+    "Name": "Jamaica",
+    "TimePeriod": 2002,
+    "Value": 2.8
+  },
+  {
+    "Name": "Jamaica",
+    "TimePeriod": 2004,
+    "Value": 1.7
+  },
+  {
+    "Name": "Japan",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2001,
+    "Value": 10.3
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2002,
+    "Value": 6.8
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2003,
+    "Value": 4.6
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2004,
+    "Value": 2.3
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2005,
+    "Value": 6.9
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2006,
+    "Value": 0.6
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2007,
+    "Value": 0.3
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2016,
+    "Value": 0
+  },
+  {
+    "Name": "Kazakhstan",
+    "TimePeriod": 2017,
+    "Value": 0
+  },
+  {
+    "Name": "Jordan",
+    "TimePeriod": 2002,
+    "Value": 1.1
+  },
+  {
+    "Name": "Jordan",
+    "TimePeriod": 2006,
+    "Value": 0.3
+  },
+  {
+    "Name": "Jordan",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "Name": "Jordan",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "Name": "Kenya",
+    "TimePeriod": 2005,
+    "Value": 43.7
+  },
+  {
+    "Name": "Kenya",
+    "TimePeriod": 2015,
+    "Value": 36.8
+  },
+  {
+    "Name": "Republic of Korea",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "Name": "Republic of Korea",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Republic of Korea",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Republic of Korea",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2000,
+    "Value": 42.1
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2001,
+    "Value": 36.4
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2002,
+    "Value": 34.1
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2003,
+    "Value": 28.1
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2004,
+    "Value": 13.6
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2005,
+    "Value": 15.3
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2006,
+    "Value": 9.9
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2007,
+    "Value": 9.9
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2008,
+    "Value": 4
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2009,
+    "Value": 2.1
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2010,
+    "Value": 4.1
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2011,
+    "Value": 1.8
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2012,
+    "Value": 2.9
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2013,
+    "Value": 3.3
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2014,
+    "Value": 1.3
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2015,
+    "Value": 2.5
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2016,
+    "Value": 1.4
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "TimePeriod": 2017,
+    "Value": 1.5
+  },
+  {
+    "Name": "Lao People's Democratic Republic",
+    "TimePeriod": 2002,
+    "Value": 33.8
+  },
+  {
+    "Name": "Lao People's Democratic Republic",
+    "TimePeriod": 2007,
+    "Value": 27
+  },
+  {
+    "Name": "Lao People's Democratic Republic",
+    "TimePeriod": 2012,
+    "Value": 22.7
+  },
+  {
+    "Name": "Latin America and the Caribbean",
+    "TimePeriod": 2002,
+    "Value": 11.8
+  },
+  {
+    "Name": "Latin America and the Caribbean",
+    "TimePeriod": 2005,
+    "Value": 9.8
+  },
+  {
+    "Name": "Latin America and the Caribbean",
+    "TimePeriod": 2008,
+    "Value": 6.9
+  },
+  {
+    "Name": "Latin America and the Caribbean",
+    "TimePeriod": 2010,
+    "Value": 6.1
+  },
+  {
+    "Name": "Latin America and the Caribbean",
+    "TimePeriod": 2011,
+    "Value": 5.7
+  },
+  {
+    "Name": "Latin America and the Caribbean",
+    "TimePeriod": 2012,
+    "Value": 4.7
+  },
+  {
+    "Name": "Latin America and the Caribbean",
+    "TimePeriod": 2013,
+    "Value": 4.5
+  },
+  {
+    "Name": "Latin America and the Caribbean",
+    "TimePeriod": 2015,
+    "Value": 3.9
+  },
+  {
+    "Name": "Lebanon",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Lesotho",
+    "TimePeriod": 2002,
+    "Value": 61.3
+  },
+  {
+    "Name": "Lesotho",
+    "TimePeriod": 2010,
+    "Value": 59.7
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2004,
+    "Value": 2.5
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2005,
+    "Value": 2.2
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2006,
+    "Value": 1.5
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2008,
+    "Value": 1.2
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2009,
+    "Value": 1.7
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2010,
+    "Value": 1.7
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2011,
+    "Value": 1
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2012,
+    "Value": 1
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2013,
+    "Value": 1.2
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "Name": "Latvia",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Liberia",
+    "TimePeriod": 2007,
+    "Value": 68.6
+  },
+  {
+    "Name": "Liberia",
+    "TimePeriod": 2014,
+    "Value": 38.6
+  },
+  {
+    "Name": "Liberia",
+    "TimePeriod": 2016,
+    "Value": 40.9
+  },
+  {
+    "Name": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2002,
+    "Value": 48.2
+  },
+  {
+    "Name": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2005,
+    "Value": 41.7
+  },
+  {
+    "Name": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2008,
+    "Value": 37.7
+  },
+  {
+    "Name": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2010,
+    "Value": 34.4
+  },
+  {
+    "Name": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2011,
+    "Value": 32.9
+  },
+  {
+    "Name": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2012,
+    "Value": 32
+  },
+  {
+    "Name": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2013,
+    "Value": 31.2
+  },
+  {
+    "Name": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2015,
+    "Value": 30.2
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2004,
+    "Value": 2.7
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2005,
+    "Value": 1.7
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2006,
+    "Value": 1.5
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2007,
+    "Value": 1.2
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2008,
+    "Value": 1.5
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2009,
+    "Value": 2.2
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2010,
+    "Value": 1.5
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2011,
+    "Value": 0.7
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2012,
+    "Value": 1
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2014,
+    "Value": 1.2
+  },
+  {
+    "Name": "Lithuania",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2013,
+    "Value": 0.1
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "Name": "Luxembourg",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "Name": "Madagascar",
+    "TimePeriod": 2001,
+    "Value": 68.7
+  },
+  {
+    "Name": "Madagascar",
+    "TimePeriod": 2005,
+    "Value": 72
+  },
+  {
+    "Name": "Madagascar",
+    "TimePeriod": 2010,
+    "Value": 78.5
+  },
+  {
+    "Name": "Madagascar",
+    "TimePeriod": 2012,
+    "Value": 77.6
+  },
+  {
+    "Name": "Malawi",
+    "TimePeriod": 2004,
+    "Value": 73.4
+  },
+  {
+    "Name": "Malawi",
+    "TimePeriod": 2010,
+    "Value": 71.7
+  },
+  {
+    "Name": "Malawi",
+    "TimePeriod": 2016,
+    "Value": 70.3
+  },
+  {
+    "Name": "Malaysia",
+    "TimePeriod": 2004,
+    "Value": 0.4
+  },
+  {
+    "Name": "Malaysia",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "Name": "Malaysia",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Malaysia",
+    "TimePeriod": 2011,
+    "Value": 0.1
+  },
+  {
+    "Name": "Malaysia",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Malaysia",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Maldives",
+    "TimePeriod": 2002,
+    "Value": 10
+  },
+  {
+    "Name": "Maldives",
+    "TimePeriod": 2009,
+    "Value": 7.3
+  },
+  {
+    "Name": "Mali",
+    "TimePeriod": 2001,
+    "Value": 58.5
+  },
+  {
+    "Name": "Mali",
+    "TimePeriod": 2006,
+    "Value": 51.2
+  },
+  {
+    "Name": "Mali",
+    "TimePeriod": 2009,
+    "Value": 49.7
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2006,
+    "Value": 0.5
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Malta",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Mauritania",
+    "TimePeriod": 2000,
+    "Value": 19.6
+  },
+  {
+    "Name": "Mauritania",
+    "TimePeriod": 2004,
+    "Value": 14.4
+  },
+  {
+    "Name": "Mauritania",
+    "TimePeriod": 2008,
+    "Value": 10.8
+  },
+  {
+    "Name": "Mauritania",
+    "TimePeriod": 2014,
+    "Value": 6
+  },
+  {
+    "Name": "Mauritius",
+    "TimePeriod": 2006,
+    "Value": 0.4
+  },
+  {
+    "Name": "Mauritius",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2000,
+    "Value": 8.9
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2002,
+    "Value": 6.6
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2004,
+    "Value": 5.2
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2005,
+    "Value": 6.2
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2006,
+    "Value": 3.4
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2008,
+    "Value": 4.1
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2010,
+    "Value": 4.2
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2012,
+    "Value": 3.4
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2014,
+    "Value": 4.1
+  },
+  {
+    "Name": "Mexico",
+    "TimePeriod": 2016,
+    "Value": 2.5
+  },
+  {
+    "Name": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2002,
+    "Value": 3.2
+  },
+  {
+    "Name": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2005,
+    "Value": 3.3
+  },
+  {
+    "Name": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2008,
+    "Value": 2.4
+  },
+  {
+    "Name": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2010,
+    "Value": 2.3
+  },
+  {
+    "Name": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2011,
+    "Value": 3.2
+  },
+  {
+    "Name": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2012,
+    "Value": 3.6
+  },
+  {
+    "Name": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2013,
+    "Value": 3.8
+  },
+  {
+    "Name": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2015,
+    "Value": 7.4
+  },
+  {
+    "Name": "Mongolia",
+    "TimePeriod": 2002,
+    "Value": 9.7
+  },
+  {
+    "Name": "Mongolia",
+    "TimePeriod": 2007,
+    "Value": 1.3
+  },
+  {
+    "Name": "Mongolia",
+    "TimePeriod": 2010,
+    "Value": 0.8
+  },
+  {
+    "Name": "Mongolia",
+    "TimePeriod": 2011,
+    "Value": 0.6
+  },
+  {
+    "Name": "Mongolia",
+    "TimePeriod": 2012,
+    "Value": 0.4
+  },
+  {
+    "Name": "Mongolia",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "Name": "Mongolia",
+    "TimePeriod": 2016,
+    "Value": 0.6
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2000,
+    "Value": 35.7
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2001,
+    "Value": 27.2
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2002,
+    "Value": 16.3
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2003,
+    "Value": 7.5
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2004,
+    "Value": 8.6
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2005,
+    "Value": 13.9
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2006,
+    "Value": 2.4
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2007,
+    "Value": 1.1
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2008,
+    "Value": 1.3
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2009,
+    "Value": 1
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2011,
+    "Value": 0.3
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2012,
+    "Value": 0.3
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2013,
+    "Value": 0.1
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2016,
+    "Value": 0.2
+  },
+  {
+    "Name": "Republic of Moldova",
+    "TimePeriod": 2017,
+    "Value": 0.1
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2006,
+    "Value": 0.1
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2007,
+    "Value": 0.4
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2012,
+    "Value": 1.3
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "Name": "Montenegro",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Morocco",
+    "TimePeriod": 2000,
+    "Value": 6.3
+  },
+  {
+    "Name": "Morocco",
+    "TimePeriod": 2006,
+    "Value": 3.1
+  },
+  {
+    "Name": "Morocco",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "Name": "Mozambique",
+    "TimePeriod": 2002,
+    "Value": 81
+  },
+  {
+    "Name": "Mozambique",
+    "TimePeriod": 2008,
+    "Value": 69.1
+  },
+  {
+    "Name": "Mozambique",
+    "TimePeriod": 2014,
+    "Value": 62.4
+  },
+  {
+    "Name": "Europe and Northern America",
+    "TimePeriod": 2002,
+    "Value": 0.8
+  },
+  {
+    "Name": "Europe and Northern America",
+    "TimePeriod": 2005,
+    "Value": 0.6
+  },
+  {
+    "Name": "Europe and Northern America",
+    "TimePeriod": 2008,
+    "Value": 0.4
+  },
+  {
+    "Name": "Europe and Northern America",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Europe and Northern America",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "Name": "Europe and Northern America",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "Name": "Europe and Northern America",
+    "TimePeriod": 2013,
+    "Value": 0.5
+  },
+  {
+    "Name": "Europe and Northern America",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2002,
+    "Value": 0.7
+  },
+  {
+    "Name": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2005,
+    "Value": 0.6
+  },
+  {
+    "Name": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2008,
+    "Value": 0.4
+  },
+  {
+    "Name": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "Name": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "Name": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2013,
+    "Value": 0.5
+  },
+  {
+    "Name": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Namibia",
+    "TimePeriod": 2003,
+    "Value": 31.5
+  },
+  {
+    "Name": "Namibia",
+    "TimePeriod": 2009,
+    "Value": 22.6
+  },
+  {
+    "Name": "Namibia",
+    "TimePeriod": 2015,
+    "Value": 13.4
+  },
+  {
+    "Name": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2002,
+    "Value": 26.1
+  },
+  {
+    "Name": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2005,
+    "Value": 16.1
+  },
+  {
+    "Name": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2008,
+    "Value": 13.7
+  },
+  {
+    "Name": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2010,
+    "Value": 10.8
+  },
+  {
+    "Name": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2011,
+    "Value": 7.8
+  },
+  {
+    "Name": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2012,
+    "Value": 6.6
+  },
+  {
+    "Name": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2013,
+    "Value": 1.9
+  },
+  {
+    "Name": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2015,
+    "Value": 0.8
+  },
+  {
+    "Name": "Nepal",
+    "TimePeriod": 2003,
+    "Value": 46.1
+  },
+  {
+    "Name": "Nepal",
+    "TimePeriod": 2010,
+    "Value": 15
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Netherlands",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2008,
+    "Value": 37.1
+  },
+  {
+    "Name": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2010,
+    "Value": 31.6
+  },
+  {
+    "Name": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2011,
+    "Value": 31.4
+  },
+  {
+    "Name": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2012,
+    "Value": 30.7
+  },
+  {
+    "Name": "Vanuatu",
+    "TimePeriod": 2010,
+    "Value": 13.1
+  },
+  {
+    "Name": "Nicaragua",
+    "TimePeriod": 2001,
+    "Value": 16.5
+  },
+  {
+    "Name": "Nicaragua",
+    "TimePeriod": 2005,
+    "Value": 8.3
+  },
+  {
+    "Name": "Nicaragua",
+    "TimePeriod": 2009,
+    "Value": 7.3
+  },
+  {
+    "Name": "Nicaragua",
+    "TimePeriod": 2014,
+    "Value": 3.2
+  },
+  {
+    "Name": "Niger",
+    "TimePeriod": 2005,
+    "Value": 74.9
+  },
+  {
+    "Name": "Niger",
+    "TimePeriod": 2007,
+    "Value": 72
+  },
+  {
+    "Name": "Niger",
+    "TimePeriod": 2011,
+    "Value": 50.3
+  },
+  {
+    "Name": "Niger",
+    "TimePeriod": 2014,
+    "Value": 44.5
+  },
+  {
+    "Name": "Nigeria",
+    "TimePeriod": 2003,
+    "Value": 53.5
+  },
+  {
+    "Name": "Nigeria",
+    "TimePeriod": 2009,
+    "Value": 53.5
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Norway",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "Name": "Micronesia (Federated States of)",
+    "TimePeriod": 2005,
+    "Value": 8.1
+  },
+  {
+    "Name": "Micronesia (Federated States of)",
+    "TimePeriod": 2013,
+    "Value": 15.4
+  },
+  {
+    "Name": "Pakistan",
+    "TimePeriod": 2001,
+    "Value": 28.6
+  },
+  {
+    "Name": "Pakistan",
+    "TimePeriod": 2004,
+    "Value": 18
+  },
+  {
+    "Name": "Pakistan",
+    "TimePeriod": 2005,
+    "Value": 16.5
+  },
+  {
+    "Name": "Pakistan",
+    "TimePeriod": 2007,
+    "Value": 13.2
+  },
+  {
+    "Name": "Pakistan",
+    "TimePeriod": 2010,
+    "Value": 8.3
+  },
+  {
+    "Name": "Pakistan",
+    "TimePeriod": 2011,
+    "Value": 7.9
+  },
+  {
+    "Name": "Pakistan",
+    "TimePeriod": 2013,
+    "Value": 6.1
+  },
+  {
+    "Name": "Pakistan",
+    "TimePeriod": 2015,
+    "Value": 3.9
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2000,
+    "Value": 12.4
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2001,
+    "Value": 15.5
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2002,
+    "Value": 11.2
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2003,
+    "Value": 11.2
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2004,
+    "Value": 10.1
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2005,
+    "Value": 10
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2006,
+    "Value": 10.5
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2007,
+    "Value": 7.8
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2008,
+    "Value": 5.2
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2009,
+    "Value": 3.2
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2010,
+    "Value": 4.5
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2011,
+    "Value": 3
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2012,
+    "Value": 4.1
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2013,
+    "Value": 2.8
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2014,
+    "Value": 3.5
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2015,
+    "Value": 2
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2016,
+    "Value": 2.2
+  },
+  {
+    "Name": "Panama",
+    "TimePeriod": 2017,
+    "Value": 2.5
+  },
+  {
+    "Name": "Papua New Guinea",
+    "TimePeriod": 2009,
+    "Value": 38
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2001,
+    "Value": 8.9
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2002,
+    "Value": 13.2
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2003,
+    "Value": 8.3
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2004,
+    "Value": 5.7
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2005,
+    "Value": 6.1
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2006,
+    "Value": 7.9
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2007,
+    "Value": 7.8
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2008,
+    "Value": 4.3
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2009,
+    "Value": 5.8
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2010,
+    "Value": 5.5
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2011,
+    "Value": 5
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2012,
+    "Value": 3.3
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2013,
+    "Value": 1.8
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2014,
+    "Value": 2.4
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2015,
+    "Value": 1.9
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2016,
+    "Value": 1.7
+  },
+  {
+    "Name": "Paraguay",
+    "TimePeriod": 2017,
+    "Value": 1.2
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2000,
+    "Value": 16.3
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2001,
+    "Value": 17.2
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2002,
+    "Value": 15
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2003,
+    "Value": 11.7
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2004,
+    "Value": 13.5
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2005,
+    "Value": 15.3
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2006,
+    "Value": 13.3
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2007,
+    "Value": 11
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2008,
+    "Value": 9
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2009,
+    "Value": 7
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2010,
+    "Value": 5.5
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2011,
+    "Value": 5.2
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2012,
+    "Value": 4.7
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2013,
+    "Value": 4.3
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2014,
+    "Value": 3.7
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2015,
+    "Value": 3.6
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2016,
+    "Value": 3.5
+  },
+  {
+    "Name": "Peru",
+    "TimePeriod": 2017,
+    "Value": 3.4
+  },
+  {
+    "Name": "Philippines",
+    "TimePeriod": 2000,
+    "Value": 14.5
+  },
+  {
+    "Name": "Philippines",
+    "TimePeriod": 2003,
+    "Value": 13.1
+  },
+  {
+    "Name": "Philippines",
+    "TimePeriod": 2006,
+    "Value": 14.7
+  },
+  {
+    "Name": "Philippines",
+    "TimePeriod": 2009,
+    "Value": 10.7
+  },
+  {
+    "Name": "Philippines",
+    "TimePeriod": 2012,
+    "Value": 12
+  },
+  {
+    "Name": "Philippines",
+    "TimePeriod": 2015,
+    "Value": 7.8
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2000,
+    "Value": 0.1
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2001,
+    "Value": 0.1
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2002,
+    "Value": 0.1
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2003,
+    "Value": 0.1
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2004,
+    "Value": 0.1
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2005,
+    "Value": 0.1
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Poland",
+    "TimePeriod": 2016,
+    "Value": 0
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2003,
+    "Value": 1
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2004,
+    "Value": 0.5
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2012,
+    "Value": 0.7
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2014,
+    "Value": 0.5
+  },
+  {
+    "Name": "Portugal",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "Name": "Guinea-Bissau",
+    "TimePeriod": 2002,
+    "Value": 53.9
+  },
+  {
+    "Name": "Guinea-Bissau",
+    "TimePeriod": 2010,
+    "Value": 67.1
+  },
+  {
+    "Name": "Timor-Leste",
+    "TimePeriod": 2001,
+    "Value": 46
+  },
+  {
+    "Name": "Timor-Leste",
+    "TimePeriod": 2007,
+    "Value": 47
+  },
+  {
+    "Name": "Timor-Leste",
+    "TimePeriod": 2014,
+    "Value": 30.7
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2006,
+    "Value": 8
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2007,
+    "Value": 5.7
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2008,
+    "Value": 4.5
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2009,
+    "Value": 3.5
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2010,
+    "Value": 4.5
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2011,
+    "Value": 5.7
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2012,
+    "Value": 6.7
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2013,
+    "Value": 7.2
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2014,
+    "Value": 7.5
+  },
+  {
+    "Name": "Romania",
+    "TimePeriod": 2015,
+    "Value": 5.7
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2000,
+    "Value": 2.2
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2001,
+    "Value": 1.3
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2002,
+    "Value": 0.7
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2003,
+    "Value": 0.8
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2006,
+    "Value": 0.3
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2007,
+    "Value": 0.1
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Russian Federation",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Rwanda",
+    "TimePeriod": 2000,
+    "Value": 77.2
+  },
+  {
+    "Name": "Rwanda",
+    "TimePeriod": 2005,
+    "Value": 68.3
+  },
+  {
+    "Name": "Rwanda",
+    "TimePeriod": 2010,
+    "Value": 62.3
+  },
+  {
+    "Name": "Rwanda",
+    "TimePeriod": 2013,
+    "Value": 56.8
+  },
+  {
+    "Name": "Rwanda",
+    "TimePeriod": 2016,
+    "Value": 55.5
+  },
+  {
+    "Name": "Saint Lucia",
+    "TimePeriod": 2016,
+    "Value": 4.7
+  },
+  {
+    "Name": "Sao Tome and Principe",
+    "TimePeriod": 2000,
+    "Value": 29.8
+  },
+  {
+    "Name": "Sao Tome and Principe",
+    "TimePeriod": 2010,
+    "Value": 32.3
+  },
+  {
+    "Name": "Senegal",
+    "TimePeriod": 2001,
+    "Value": 48.3
+  },
+  {
+    "Name": "Senegal",
+    "TimePeriod": 2005,
+    "Value": 37.4
+  },
+  {
+    "Name": "Senegal",
+    "TimePeriod": 2011,
+    "Value": 38
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2002,
+    "Value": 0.2
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2003,
+    "Value": 0.5
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2004,
+    "Value": 0.9
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2005,
+    "Value": 0.9
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2006,
+    "Value": 0.5
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2007,
+    "Value": 0.4
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2009,
+    "Value": 0.1
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2013,
+    "Value": 0.3
+  },
+  {
+    "Name": "Serbia",
+    "TimePeriod": 2015,
+    "Value": 0.1
+  },
+  {
+    "Name": "Seychelles",
+    "TimePeriod": 2013,
+    "Value": 1.1
+  },
+  {
+    "Name": "Sierra Leone",
+    "TimePeriod": 2003,
+    "Value": 60.6
+  },
+  {
+    "Name": "Sierra Leone",
+    "TimePeriod": 2011,
+    "Value": 52.2
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2009,
+    "Value": 0.4
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "Name": "Slovakia",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "Name": "Viet Nam",
+    "TimePeriod": 2002,
+    "Value": 38
+  },
+  {
+    "Name": "Viet Nam",
+    "TimePeriod": 2004,
+    "Value": 26.5
+  },
+  {
+    "Name": "Viet Nam",
+    "TimePeriod": 2006,
+    "Value": 19.5
+  },
+  {
+    "Name": "Viet Nam",
+    "TimePeriod": 2008,
+    "Value": 14.8
+  },
+  {
+    "Name": "Viet Nam",
+    "TimePeriod": 2010,
+    "Value": 4.2
+  },
+  {
+    "Name": "Viet Nam",
+    "TimePeriod": 2012,
+    "Value": 2.8
+  },
+  {
+    "Name": "Viet Nam",
+    "TimePeriod": 2014,
+    "Value": 2.7
+  },
+  {
+    "Name": "Viet Nam",
+    "TimePeriod": 2016,
+    "Value": 2
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Slovenia",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "South Africa",
+    "TimePeriod": 2000,
+    "Value": 35
+  },
+  {
+    "Name": "South Africa",
+    "TimePeriod": 2005,
+    "Value": 26.1
+  },
+  {
+    "Name": "South Africa",
+    "TimePeriod": 2008,
+    "Value": 16.9
+  },
+  {
+    "Name": "South Africa",
+    "TimePeriod": 2010,
+    "Value": 16.5
+  },
+  {
+    "Name": "South Africa",
+    "TimePeriod": 2014,
+    "Value": 18.9
+  },
+  {
+    "Name": "Zimbabwe",
+    "TimePeriod": 2011,
+    "Value": 21.4
+  },
+  {
+    "Name": "Small island developing States (SIDS)",
+    "TimePeriod": 2002,
+    "Value": 29.8
+  },
+  {
+    "Name": "Small island developing States (SIDS)",
+    "TimePeriod": 2010,
+    "Value": 26.6
+  },
+  {
+    "Name": "Small island developing States (SIDS)",
+    "TimePeriod": 2011,
+    "Value": 26.1
+  },
+  {
+    "Name": "Small island developing States (SIDS)",
+    "TimePeriod": 2012,
+    "Value": 18.7
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2003,
+    "Value": 0.7
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2006,
+    "Value": 0.7
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2007,
+    "Value": 0.4
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2009,
+    "Value": 0.7
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2010,
+    "Value": 0.7
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2011,
+    "Value": 1.2
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2012,
+    "Value": 1
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2013,
+    "Value": 1.2
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "Name": "Spain",
+    "TimePeriod": 2015,
+    "Value": 1
+  },
+  {
+    "Name": "South Sudan",
+    "TimePeriod": 2009,
+    "Value": 42.7
+  },
+  {
+    "Name": "Sudan",
+    "TimePeriod": 2009,
+    "Value": 14.9
+  },
+  {
+    "Name": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2002,
+    "Value": 55.2
+  },
+  {
+    "Name": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2005,
+    "Value": 50.7
+  },
+  {
+    "Name": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2008,
+    "Value": 47.9
+  },
+  {
+    "Name": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2010,
+    "Value": 46.5
+  },
+  {
+    "Name": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2011,
+    "Value": 45
+  },
+  {
+    "Name": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2012,
+    "Value": 43.7
+  },
+  {
+    "Name": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2013,
+    "Value": 42.4
+  },
+  {
+    "Name": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2015,
+    "Value": 41
+  },
+  {
+    "Name": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2002,
+    "Value": 3.9
+  },
+  {
+    "Name": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2005,
+    "Value": 3.8
+  },
+  {
+    "Name": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2008,
+    "Value": 2.9
+  },
+  {
+    "Name": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2010,
+    "Value": 2.3
+  },
+  {
+    "Name": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2011,
+    "Value": 2
+  },
+  {
+    "Name": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2012,
+    "Value": 1.7
+  },
+  {
+    "Name": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2013,
+    "Value": 1.5
+  },
+  {
+    "Name": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2015,
+    "Value": 1
+  },
+  {
+    "Name": "Northern Africa and Western Asia",
+    "TimePeriod": 2002,
+    "Value": 5.8
+  },
+  {
+    "Name": "Northern Africa and Western Asia",
+    "TimePeriod": 2005,
+    "Value": 5.2
+  },
+  {
+    "Name": "Northern Africa and Western Asia",
+    "TimePeriod": 2008,
+    "Value": 3.7
+  },
+  {
+    "Name": "Northern Africa and Western Asia",
+    "TimePeriod": 2010,
+    "Value": 3.4
+  },
+  {
+    "Name": "Northern Africa and Western Asia",
+    "TimePeriod": 2011,
+    "Value": 3.4
+  },
+  {
+    "Name": "Northern Africa and Western Asia",
+    "TimePeriod": 2012,
+    "Value": 3.1
+  },
+  {
+    "Name": "Northern Africa and Western Asia",
+    "TimePeriod": 2013,
+    "Value": 3.1
+  },
+  {
+    "Name": "Northern Africa and Western Asia",
+    "TimePeriod": 2015,
+    "Value": 4.3
+  },
+  {
+    "Name": "Eswatini",
+    "TimePeriod": 2000,
+    "Value": 48.4
+  },
+  {
+    "Name": "Eswatini",
+    "TimePeriod": 2009,
+    "Value": 42
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2004,
+    "Value": 0.5
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2005,
+    "Value": 0.9
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2014,
+    "Value": 0.5
+  },
+  {
+    "Name": "Sweden",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "Name": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2002,
+    "Value": 24.6
+  },
+  {
+    "Name": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2005,
+    "Value": 16.3
+  },
+  {
+    "Name": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2008,
+    "Value": 14.1
+  },
+  {
+    "Name": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2010,
+    "Value": 10.8
+  },
+  {
+    "Name": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2011,
+    "Value": 8.2
+  },
+  {
+    "Name": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2012,
+    "Value": 7
+  },
+  {
+    "Name": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2013,
+    "Value": 3.2
+  },
+  {
+    "Name": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2015,
+    "Value": 1.9
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Switzerland",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Syrian Arab Republic",
+    "TimePeriod": 2004,
+    "Value": 1.7
+  },
+  {
+    "Name": "Tajikistan",
+    "TimePeriod": 2003,
+    "Value": 30.8
+  },
+  {
+    "Name": "Tajikistan",
+    "TimePeriod": 2004,
+    "Value": 15.4
+  },
+  {
+    "Name": "Tajikistan",
+    "TimePeriod": 2007,
+    "Value": 10.4
+  },
+  {
+    "Name": "Tajikistan",
+    "TimePeriod": 2009,
+    "Value": 4.7
+  },
+  {
+    "Name": "Tajikistan",
+    "TimePeriod": 2015,
+    "Value": 4.8
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2000,
+    "Value": 2.5
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2002,
+    "Value": 1.1
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2004,
+    "Value": 0.8
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2006,
+    "Value": 0.7
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2007,
+    "Value": 0.3
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2012,
+    "Value": 0.1
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2016,
+    "Value": 0
+  },
+  {
+    "Name": "Thailand",
+    "TimePeriod": 2017,
+    "Value": 0
+  },
+  {
+    "Name": "Togo",
+    "TimePeriod": 2006,
+    "Value": 55.6
+  },
+  {
+    "Name": "Togo",
+    "TimePeriod": 2011,
+    "Value": 54.2
+  },
+  {
+    "Name": "Togo",
+    "TimePeriod": 2015,
+    "Value": 49.2
+  },
+  {
+    "Name": "Tonga",
+    "TimePeriod": 2001,
+    "Value": 2.8
+  },
+  {
+    "Name": "Tonga",
+    "TimePeriod": 2009,
+    "Value": 1.1
+  },
+  {
+    "Name": "Tonga",
+    "TimePeriod": 2015,
+    "Value": 1
+  },
+  {
+    "Name": "Tunisia",
+    "TimePeriod": 2000,
+    "Value": 5.9
+  },
+  {
+    "Name": "Tunisia",
+    "TimePeriod": 2005,
+    "Value": 3.3
+  },
+  {
+    "Name": "Tunisia",
+    "TimePeriod": 2010,
+    "Value": 2
+  },
+  {
+    "Name": "Tunisia",
+    "TimePeriod": 2015,
+    "Value": 0.3
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2002,
+    "Value": 2.5
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2003,
+    "Value": 4.2
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2004,
+    "Value": 2.2
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2005,
+    "Value": 2.6
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2006,
+    "Value": 1.9
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2007,
+    "Value": 1.4
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2008,
+    "Value": 0.6
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2009,
+    "Value": 0.9
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2010,
+    "Value": 0.8
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2011,
+    "Value": 0.3
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2012,
+    "Value": 0.3
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2013,
+    "Value": 0.3
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2014,
+    "Value": 0.3
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2015,
+    "Value": 0.3
+  },
+  {
+    "Name": "Turkey",
+    "TimePeriod": 2016,
+    "Value": 0.2
+  },
+  {
+    "Name": "Tuvalu",
+    "TimePeriod": 2010,
+    "Value": 3.3
+  },
+  {
+    "Name": "Uganda",
+    "TimePeriod": 2002,
+    "Value": 65.1
+  },
+  {
+    "Name": "Uganda",
+    "TimePeriod": 2005,
+    "Value": 56.4
+  },
+  {
+    "Name": "Uganda",
+    "TimePeriod": 2009,
+    "Value": 44.6
+  },
+  {
+    "Name": "Uganda",
+    "TimePeriod": 2012,
+    "Value": 35.9
+  },
+  {
+    "Name": "Uganda",
+    "TimePeriod": 2016,
+    "Value": 41.7
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2002,
+    "Value": 1.7
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2003,
+    "Value": 0.6
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2004,
+    "Value": 0.6
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2005,
+    "Value": 0.3
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2006,
+    "Value": 0.1
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2007,
+    "Value": 0.1
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2009,
+    "Value": 0.1
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2015,
+    "Value": 0.1
+  },
+  {
+    "Name": "Ukraine",
+    "TimePeriod": 2016,
+    "Value": 0.1
+  },
+  {
+    "Name": "North Macedonia",
+    "TimePeriod": 2009,
+    "Value": 9.6
+  },
+  {
+    "Name": "North Macedonia",
+    "TimePeriod": 2010,
+    "Value": 10.4
+  },
+  {
+    "Name": "North Macedonia",
+    "TimePeriod": 2011,
+    "Value": 8.8
+  },
+  {
+    "Name": "North Macedonia",
+    "TimePeriod": 2012,
+    "Value": 6.8
+  },
+  {
+    "Name": "North Macedonia",
+    "TimePeriod": 2013,
+    "Value": 5.2
+  },
+  {
+    "Name": "North Macedonia",
+    "TimePeriod": 2014,
+    "Value": 4.4
+  },
+  {
+    "Name": "North Macedonia",
+    "TimePeriod": 2015,
+    "Value": 5.2
+  },
+  {
+    "Name": "Egypt",
+    "TimePeriod": 2004,
+    "Value": 4.4
+  },
+  {
+    "Name": "Egypt",
+    "TimePeriod": 2008,
+    "Value": 3.9
+  },
+  {
+    "Name": "Egypt",
+    "TimePeriod": 2010,
+    "Value": 3
+  },
+  {
+    "Name": "Egypt",
+    "TimePeriod": 2012,
+    "Value": 2.3
+  },
+  {
+    "Name": "Egypt",
+    "TimePeriod": 2015,
+    "Value": 1.3
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2004,
+    "Value": 0.5
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "Name": "United Republic of Tanzania",
+    "TimePeriod": 2000,
+    "Value": 86
+  },
+  {
+    "Name": "United Republic of Tanzania",
+    "TimePeriod": 2007,
+    "Value": 59.9
+  },
+  {
+    "Name": "United Republic of Tanzania",
+    "TimePeriod": 2011,
+    "Value": 49.1
+  },
+  {
+    "Name": "United States of America",
+    "TimePeriod": 2000,
+    "Value": 0.7
+  },
+  {
+    "Name": "United States of America",
+    "TimePeriod": 2004,
+    "Value": 1
+  },
+  {
+    "Name": "United States of America",
+    "TimePeriod": 2007,
+    "Value": 1
+  },
+  {
+    "Name": "United States of America",
+    "TimePeriod": 2010,
+    "Value": 1
+  },
+  {
+    "Name": "United States of America",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "Name": "United States of America",
+    "TimePeriod": 2016,
+    "Value": 1.2
+  },
+  {
+    "Name": "Burkina Faso",
+    "TimePeriod": 2003,
+    "Value": 57.3
+  },
+  {
+    "Name": "Burkina Faso",
+    "TimePeriod": 2009,
+    "Value": 55.3
+  },
+  {
+    "Name": "Burkina Faso",
+    "TimePeriod": 2014,
+    "Value": 43.7
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2006,
+    "Value": 0.5
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2007,
+    "Value": 0.3
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2011,
+    "Value": 0.1
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2012,
+    "Value": 0.1
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2014,
+    "Value": 0.1
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2015,
+    "Value": 0.1
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2016,
+    "Value": 0.1
+  },
+  {
+    "Name": "Uruguay",
+    "TimePeriod": 2017,
+    "Value": 0.1
+  },
+  {
+    "Name": "Uzbekistan",
+    "TimePeriod": 2000,
+    "Value": 62
+  },
+  {
+    "Name": "Uzbekistan",
+    "TimePeriod": 2002,
+    "Value": 58.2
+  },
+  {
+    "Name": "Uzbekistan",
+    "TimePeriod": 2003,
+    "Value": 62.1
+  },
+  {
+    "Name": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2001,
+    "Value": 11
+  },
+  {
+    "Name": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2002,
+    "Value": 18.2
+  },
+  {
+    "Name": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2003,
+    "Value": 22.7
+  },
+  {
+    "Name": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2004,
+    "Value": 19.8
+  },
+  {
+    "Name": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2005,
+    "Value": 18.9
+  },
+  {
+    "Name": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2006,
+    "Value": 10.2
+  },
+  {
+    "Name": "Samoa",
+    "TimePeriod": 2002,
+    "Value": 2
+  },
+  {
+    "Name": "Samoa",
+    "TimePeriod": 2008,
+    "Value": 0.6
+  },
+  {
+    "Name": "Samoa",
+    "TimePeriod": 2013,
+    "Value": 1.1
+  },
+  {
+    "Name": "Yemen",
+    "TimePeriod": 2005,
+    "Value": 9.8
+  },
+  {
+    "Name": "Yemen",
+    "TimePeriod": 2014,
+    "Value": 18.8
+  },
+  {
+    "Name": "Zambia",
+    "TimePeriod": 2002,
+    "Value": 49.4
+  },
+  {
+    "Name": "Zambia",
+    "TimePeriod": 2004,
+    "Value": 56.7
+  },
+  {
+    "Name": "Zambia",
+    "TimePeriod": 2006,
+    "Value": 60.5
+  },
+  {
+    "Name": "Zambia",
+    "TimePeriod": 2010,
+    "Value": 64.4
+  },
+  {
+    "Name": "Zambia",
+    "TimePeriod": 2015,
+    "Value": 57.5
+  }
+]
